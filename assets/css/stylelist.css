@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&display=swap');
+
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+body{
+    background-color:blanchedalmond;
+    text-align:  center;
+
+}
+
+.btn{
+    border-radius: 15%;
+    background-color: brown;
+    color: white;
+}
+
+#lista{
+    text-align: left;
+}
+
+ul li.naoRealizada{
+    list-style-type: 'X';
+}
+
+.realizada{
+    text-decoration: line-through;
+}
